@@ -46,7 +46,7 @@
     "linebreak-style": ["error", "unix"],
     "no-trailing-spaces": ["error"],
     "no-var": ["error"],
-    "no-warning-comments": ["error"],
+    // "no-warning-comments": ["error"], // Should be enabled after TODOs are resolved
     "object-curly-spacing": ["error", "always"],
     "quotes": ["error", "double"],
     "semi": ["error", "always"],
